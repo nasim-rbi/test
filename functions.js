@@ -1,4 +1,0 @@
-Number();
-setInterval();
-setTimeout();
-Boolean();
