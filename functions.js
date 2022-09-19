@@ -1,0 +1,4 @@
+Number();
+setInterval();
+setTimeout();
+Boolean();
