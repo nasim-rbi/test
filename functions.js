@@ -5,3 +5,5 @@ Boolean();
 Boolean();
 split();
 map();
+split();
+map();
